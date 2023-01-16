@@ -1,0 +1,6 @@
+framework module Pods_4month4hw {
+  umbrella header "Pods-4month4hw-umbrella.h"
+
+  export *
+  module * { export * }
+}
