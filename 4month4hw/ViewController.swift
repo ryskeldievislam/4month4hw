@@ -33,7 +33,6 @@ class ViewController: UIViewController {
         return btn
     }()
     
-    
     @objc func showPunchline() {
         
         if jokesData.setup == "default"{
